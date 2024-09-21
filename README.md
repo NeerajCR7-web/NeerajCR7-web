@@ -3,7 +3,7 @@
 
 **NeerajCR7-web/NeerajCR7-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<img src="web.jpg" />
+<img src="C:\Users\neeku\Desktop\College\Workshop in WD1\Semester 1\web.jpg" />
 
 Here are some ideas to get you started:
 
