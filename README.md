@@ -3,7 +3,7 @@
 
 **NeerajCR7-web/NeerajCR7-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<img src = "https://github.com/NeerajCR7-web/NeerajCR7-web/blob/main/images/web.jpg" height = "100" width = "100">
+<img src = "https://github.com/NeerajCR7-web/NeerajCR7-web/blob/main/images/web.jpg" height = "100" width = "300">
 
 Here are some ideas to get you started:
 
