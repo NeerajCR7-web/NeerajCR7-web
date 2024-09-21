@@ -3,6 +3,8 @@
 
 **NeerajCR7-web/NeerajCR7-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/linkedin_banner.png" />
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Myself
