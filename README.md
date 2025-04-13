@@ -21,7 +21,6 @@
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![CMS](https://img.shields.io/badge/CMS-%23000000.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSIxOCIgdmlld0JveD0iMCAwIDMwIDI0IiB3aWR0aD0iMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTI1LjYxMyAxNi4yMzRjLTEuNDczLTMuNjItMy4wMDgtNi42MTgtNS42MDItOS4yMDlDMjAuMDI3IDMuNzEgMTYuOTAzLjg4NyAxMy40OTEuMjA3YTIuMDA4IDIuMDA4IDAgMCAwLS45OCAwQzkuNTg0Ljg4NyA2LjQ2MiAzLjcxIDUuMDM3IDcuMDI1Yy0yLjU5NCAyLjU5MS00LjEzIDUuNTg4LTUuNjA0IDkuMjA5aDI2LjE4em0tMTIuNTQ0LTcuMDNjMi4yNDcgMCAzLjY5NS0xLjM0NSA0LjMzOC0zLjE0N2ExMC4wNjYgMTAuMDY2IDAgMCAxIDMuMTA0IDMuMTAyYzAuOTg4IDEuMDE0IDIuMDA3IDIuMzg4IDIuODgyIDMuODMzSDYuMjAzYzAuODYxLTEuNDQ1IDEuODg1LTIuODE5IDIuODcyLTMuODMzek0xNSAzLjQyYy0uODI0IDEuOTk2LTIuNzc0IDMuNjA4LTUuMTE0IDMuNjA4LTEuMTc4IDAtMi4zMTgtLjMwOC0zLjI3Ny0uODQ2QTkuMTg4IDkuMTg4IDAgMCAxIDE1IDMuNDJ6Ii8+PC9zdmc+)
-
 ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) 
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
